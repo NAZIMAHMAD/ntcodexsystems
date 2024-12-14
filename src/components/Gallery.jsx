@@ -28,7 +28,7 @@ const Gallery = () => {
 
   return (
     <div className='py-[4rem] w-full h-auto flex justify-center items-center'>
-      <div className='w-[90%] h-auto border flex justify-between items-center flex-wrap gap-[1rem]'>
+      <div className='w-[90%] h-auto  flex justify-between items-center flex-wrap gap-[1rem]'>
        
 
           {GalleryImg.map((item, index) => (

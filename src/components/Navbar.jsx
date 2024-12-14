@@ -51,6 +51,10 @@ const Navbar = () => {
       link:'/testimonial',
     },
 
+    {
+      name:'projects',
+      link:'/Project',
+    },
 
     {
       name: 'contact',
@@ -111,7 +115,7 @@ setAppointment2(true);
     <header className='bg-black flex justify-center items-center  h-[4rem]'>
 
 
-      <div className='w-[90%] flex justify-between items-center text-white  capitalize'>
+      <div className='w-[80%] flex justify-between items-center text-white  capitalize'>
 
 
 

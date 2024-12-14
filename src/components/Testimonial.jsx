@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import G3 from "../assets/g3.jpg";
 
-const Blog = () => {
- 
- 
+const Testimonial = () => {
   const testDate = [
     {
       name: "John Nou",
@@ -42,17 +40,15 @@ const Blog = () => {
       prevIndex === testDate.length - 1 ? 0 : prevIndex + 1
     );
   };
- 
- 
+
   return (
     <>
-
-{/* blog heading section */}
-<section className="w-full h-full bg-white flex justify-center items-center py-[4rem]">
+      {/* Section Title */}
+      <section className="w-full h-full bg-white flex justify-center items-center py-[4rem]">
         <div className="w-[90%] h-auto flex justify-center items-center flex-col gap-[2rem]">
           <div className="h-full capitalize md:w-[50%] w-[90%] text-center flex justify-center gap-[1rem] flex-col">
             <h1 className="md:text-[32px] text-[28px] font-bold">
-              Our blog 
+              Our Testimonial Timeline
             </h1>
             <p className="text-[16px] font-normal leading-[1.7]">
               Hear what our clients have to say about the amazing work we deliver. 
@@ -62,10 +58,8 @@ const Blog = () => {
         </div>
       </section>
 
-{/* blog body section */}
-
-       {/* Testimonial Carousel */}
-       <div className="relative  w-full h-[30rem] pb-[4rem]  flex justify-center items-center">
+      {/* Testimonial Carousel */}
+      <div className="relative  w-full h-[30rem] pb-[4rem]  flex justify-center items-center">
         {/* Buttons */}
         <button
           onClick={handleLeft}
@@ -113,10 +107,8 @@ const Blog = () => {
           </div>
         </div>
       </div>
-
-
     </>
-  )
-}
+  );
+};
 
-export default Blog
+export default Testimonial;

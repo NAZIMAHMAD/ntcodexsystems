@@ -18,18 +18,18 @@ const Footer = () => {
   return (
     <>
 
-<footer className='bg-green-500 h-auto   flex justify-center items-center py-[3rem]   '>
+<footer className='bg-black h-auto   flex justify-center items-center py-[3rem]   '>
 
-  <div className='flex justify-between flex-col md:flex-row  w-[90%] h-auto gap-[2rem] capitalize '>
+  <div className='flex justify-between flex-col md:flex-row  w-[80%] h-auto gap-[2rem] capitalize '>
 
-    <div className='md:w-[30%] h-auto w-full text-black'>
+    <div className='md:w-[30%] h-auto w-full text-white'>
 <img src={logo} alt="" className='w-[8rem] h-[5rem] '/>
-<p className='pt-[1rem] text-black'style={{
+<p className='pt-[1rem] text-white'style={{
                 fontFamily: "Nanum Myeongjo, serif"
               }}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae et error ab ducimus eaque nesciunt totam nulla, !</p>
 
 
-<ul className='list-none text-black flex justify-start items-center gap-[1rem] mt-[1rem]'>
+<ul className='list-none text-white flex justify-start items-center gap-[1rem] mt-[1rem]'>
 
 
 <span className='font-normal '>follow us</span>
@@ -71,7 +71,7 @@ const Footer = () => {
    
 
     <div className='w-[50%]  h-auto flex justify-start items-start  md:items-start flex-col  md:flex-row '>
-      <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-black'>
+      <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-white'>
 
         <li className='text-[20px]' style={{
                 fontFamily: "Nanum Myeongjo, serif"
@@ -89,7 +89,7 @@ const Footer = () => {
       </div>
 
     <div className='w-[50%] h-auto flex justify-start md:items-start items-start flex-col md:flex-row '>
-    <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-black'>
+    <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-white'>
 
 <li className='text-[20px]' style={{
                 fontFamily: "Nanum Myeongjo, serif"
@@ -108,7 +108,7 @@ const Footer = () => {
 
 
     <div className='w-auto h-auto flex justify-start md:items-start flex-col  md:flex-row '>
-    <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-black'>
+    <ul style={{ fontFamily: 'Nunito, sans-serif' }} className='text-white'>
 
 
 
@@ -149,8 +149,8 @@ zk8052272@gmail.com
 
 </footer>
 
-<section className='flex  bg-green-500 justify-center w-full h-auto items-center    py-[1rem] capitalize'>
-  <div className='w-[90%] h-auto text-black'> <p style={{
+<section className='flex  bg-black justify-center w-full h-auto items-center    py-[1rem] capitalize'>
+  <div className='w-[80%] h-auto text-white'> <p style={{
                 fontFamily: "Nanum Myeongjo, serif"
               }}>copyright 2024 @ ntcodex systems : designed by ntcodex systems</p></div>
 </section>

@@ -5,11 +5,19 @@ module.exports = {
     "./src/**/*.{html,js,jsx}", // Add other file types if needed
   ],
   theme: {
-    extend: {
-      boxShadow: {
-        'custom_blur': '20rem 10rem 20rem rgba(0, 0, 0, 0.2)', // Example of a shadow with custom blur
-      },
-    },
+    extend: {},
   },
-  plugins: [],
-}
+  plugins: [
+    function ({ addUtilities }) {
+      addUtilities({
+        '.hide-scrollbar': {
+          '-ms-overflow-style': 'none', /* IE and Edge */
+          'scrollbar-width': 'none', /* Firefox */
+        },
+        '.hide-scrollbar::-webkit-scrollbar': {
+          display: 'none', /* Chrome, Safari, and Opera */
+        },
+      });
+    },
+  ],
+};
