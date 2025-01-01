@@ -35,7 +35,7 @@ const Gallery = () => {
 
 <Helmet>
 
-<title>best website development | best digital marketing | best app development in india | website design</title>
+<title>best website development company in india  | best digital marketing company in india | best app development company in india | website design</title>
 <meta name="description" content="we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
 
 <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
@@ -86,7 +86,9 @@ const Gallery = () => {
 
     <div className='md:w-[50%] w-[80%] h-auto flex justify-center items-center gap-[1rem]  flex-col text-center capitalize'>
   <p className='md:text-[36px] text-[28px] font-bold leading-[1.4]'>explore our gallery, & events</p>
-  <h1 className='font-normal text-[16px] text-neutral-800 leading-[1.7]'>explore us with our events and gallery at ntcodex systems, who can solve your problem through our website development, mobile application development, digital marketing, & website design in india.</h1>
+  <h1 className="text-[16px] font-normal leading-[1.7]">
+              We valued every experience and ensure excellence at every project with best website development , digital marketing, app development, wesite design company in india.
+            </h1>
     </div>
   
   </div>

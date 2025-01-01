@@ -34,8 +34,8 @@ const Project = () => {
 
     <Helmet>
     
-    <title>best website development | best digital marketing | best app development in india | website design</title>
-    <meta name="description" content="we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
+    <title>best website development company in india  | best digital marketing company in india | best app development company in india | website design</title>
+    <meta name="description" content="wxplore our worked here ,we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
     
     <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
     <meta name="author" content="nazim ahmad founder of ntcodex systems " />
@@ -88,7 +88,7 @@ const Project = () => {
             </p>
             <h1 className="text-[16px] font-normal leading-[1.7]">
               Hear what our clients have to say about the amazing work we deliver. 
-              We value every experience and ensure excellence in every project in best software company in india.
+              We valued every experience and ensure excellence at every project with best website development , digital marketing, app development, wesite design company in india.
             </h1>
           </div>
         </div>

@@ -12,8 +12,8 @@ const Services = () => {
 
 <Helmet>
 
-<title>best website development | best digital marketing | best app development in india | website design</title>
-<meta name="description" content="we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
+<title>best website development services in india | best website design services in india </title>
+<meta name="description" content="if you are looking for your business success ?. then join with best website development services in india , who provide best website design , and best digital marketing services and best mobile app development services in india. " />
 
 <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
 <meta name="author" content="nazim ahmad founder of ntcodex systems " />
@@ -63,7 +63,7 @@ const Services = () => {
 
   <div className='md:w-[50%] w-[80%] h-auto flex justify-center items-center gap-[1rem]  flex-col text-center capitalize'>
 <p className='md:text-[36px] text-[28px] font-bold leading-[1.4]'>what we are offering for you</p>
-<h1 className='font-normal text-[16px] text-neutral-800 leading-[1.7]'>ntcodex systems can be best software development company, who can help to make your business growth, we are offering website development, mobile application , digital marketing and website design in india </h1>
+<h1 className='font-normal text-[16px] text-neutral-800 leading-[1.7]'>ntcodex systems can be best website development services in india , who can help to make your business growth, we are offering website development, mobile application , digital marketing and website design in india </h1>
   </div>
 
 </div>
@@ -95,7 +95,7 @@ const Services = () => {
 </div>
   <div className='md:w-[50%] w-full h-auto flex justify-start items-start gap-[1rem] flex-col'>
   <h3 className='md:text-[32px] text-[28px] leading-[1.44] font-normal '>mobile app development</h3>
-  <p className='text-[16px] leading-[1.74] font-normal text-neutral-800'>we helps to who are looking to secure their business using the mobile application and ios application , our technology match your expections such flutter and react native , java.</p>
+  <p className='text-[16px] leading-[1.74] font-normal text-neutral-800'>we helps to who are looking to secure your business using the mobile application and ios application , our technology match your expections such flutter and react native , java.</p>
   <button className='md:w-[10rem] w-full h-[3rem] border capitalize bg-neutral-900 text-white'>book for services </button>
 
   

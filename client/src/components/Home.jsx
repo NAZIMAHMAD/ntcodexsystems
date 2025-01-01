@@ -31,8 +31,8 @@ const Home = () => {
 
 <Helmet>
 
-<title>best website development | app development services in india</title>
-<meta name="description" content="are you looking website development & app development services in india ? we can grow your business through our services, and our expert team can lead your business by digital marketing in india " />
+<title>best website development services in india | best mobile app development services in india </title>
+<meta name="description" content="are you looking website development & app development services in india ? we can grow your business through our services, and our expert team can lead your business by best digital marketing services in india , and we provide wide ranges of services across bihar patna such website development and mobile app development in patna bihar, and we are become the best software development company in india" />
 
 <meta name="keywords" content="website development , app development , best software development services in india, digital marketing services , digital marketing services in india " />
 <meta name="author" content="nazim ahmad founder of ntcodex systems " />
@@ -96,8 +96,8 @@ const Home = () => {
         <motion.div className='w-[80%] z-[1] h-auto absolute md:top-[35%] lg:top-auto  lg:w-[50%] md:w-[80%] text-start capitalize flex justify-start md:justify-center md:items-center md:text-center items-start flex-col gap-[1rem]' initial={{ opacity: 3, y: -100 }}
           whileInView={{ opacity: 40, y: 0 }}
           transition={{ duration: 0.2 }} >
-          <p className='lg:text-[49px] md:text-[32px] text-[28px] font-bold leading-[1.5] md:leading-[1.4]' ><span className='text-green-500 lg:text-[49px] md:text-[32px] text-[28px]  ' style={{ fontFamily: 'Orbitron, sans-serif' }}>software development right touched</span>  with ntcodex systems in india.  </p>
-          <h1 className='md:text-[18px] font-[400] leading-[1.75] text-[16px] text-gray-100 w-[90%] md:w-[80%]' style={{ fontFamily: 'Nunito, sans-serif' }}>best website development services in india, can make right success in business.</h1>
+          <p className='lg:text-[49px] md:text-[32px] text-[28px] font-bold leading-[1.5] md:leading-[1.4]' ><span className='text-green-500 lg:text-[49px] md:text-[32px] text-[28px]  ' style={{ fontFamily: 'Orbitron, sans-serif' }}>we knocked the your business success</span>  with ntcodex systems in india.  </p>
+          <h1 className='md:text-[18px] font-[400] leading-[1.75] text-[16px] text-gray-100 w-[90%] md:w-[80%]' style={{ fontFamily: 'Nunito, sans-serif' }}>we provide best website development, and mobile app development services in india.</h1>
 
 
           <button className='w-[12rem] bg-opacity-10 backdrop-blur-[2rem] h-[3rem] capitalize bg-transparent border-[1px] text-[17px] md:text-[18px]  font-normal rounded-[2rem] border-gray-500 '  >Get started now <IoArrowForward className='inline-block text-green-800 text-[18px]' />
@@ -210,8 +210,8 @@ const Home = () => {
             <p className='md:text-[18px] text-[16px] text-neutral-900   font-bold' style={{
               fontFamily: "Nanum Myeongjo, serif"
             }}>about us</p>
-            <h2 className='md:text-[32px] text-[28px] font-bold md:leading-[1.4] leading-[1.4]  ' >emerging brand to make your success ,  <span className='text-green-500'>for best mobile app development services in india. </span></h2>
-            <p style={{ fontFamily: 'Nunito, sans-serif' }} className='leading-[1.75] font-normal text-neutral-800 text-[16px] md:text-[16px]'>emerging the best software development company in india , helped them small and large business their success, and established on 2024, and we used the core development services.</p>
+            <h2 className='md:text-[32px] text-[28px] font-bold md:leading-[1.4] leading-[1.4]  ' >grow your business with ,  <span className='text-green-500'> best mobile app development services in india. </span></h2>
+            <p style={{ fontFamily: 'Nunito, sans-serif' }} className='leading-[1.75] font-normal text-neutral-800 text-[16px] md:text-[16px]'>we are emerging the best software development company in india , helped them small and large business for their success, and established on 2024, and we used the core development services.</p>
             <button className='w-[10rem] h-[3rem] text-[16px]  md:text-[14px] border-gray-400 rounded-[5rem] font-normal border-[1px] capitalize ' style={{ fontFamily: 'Rubik, sans-serif' }}>know more </button>
           </motion.div>
 
@@ -252,7 +252,7 @@ const Home = () => {
 
               <img src={webLogo} alt="best software company in india" title='best software development in india , who provide wide range of it services such as website development , and app development in india' className='md:w-[3rem] md:h-[3rem] w-[5rem]' />
               <p className='font-bold pt-3 text-white text-[20px]' style={{ fontFamily: 'Nunito, sans-serif' }}>website development.</p>
-              <p className='text-[12px] pt-2 leading-[1.75] font-normal  text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>best website development in india,  can lead the many customers for your business, and hit the target audiance.
+              <p className='text-[12px] pt-2 leading-[1.75] font-normal  text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>best website development in india,  can get the many customers for your business, and hit the target audiance.
               </p>
 
             </motion.div>
@@ -263,7 +263,7 @@ const Home = () => {
 
               <img src={phone} alt="best software company in india" title='best mobile app development services in india' className='md:w-[3rem] md:h-[3rem] w-[5rem]' />
               <p className='font-bold pt-3 text-white text-[20px] ' style={{ fontFamily: 'Nunito, sans-serif' }}> mobile app  development.</p>
-              <p className='text-[12px] pt-2 leading-[1.75] font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>we deliver the all cross platform services ,android and ios mobile application services in india.
+              <p className='text-[12px] pt-2 leading-[1.75] font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>we deliver the cross platform services ,android and ios mobile application services in india.
               </p>
 
             </motion.div>
@@ -276,7 +276,7 @@ const Home = () => {
 
               <img src={dig} alt="best software company in india" title='our expertised team , make your dream into reality' className='md:w-[3rem] md:h-[3rem] w-[5rem]' />
               <p className='font-bold pt-3 text-white text-[20px]' style={{ fontFamily: 'Nunito, sans-serif' }}>Digital marketing.</p>
-              <p className='text-[12px] pt-2 leading-[1.75] font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>get your business ready with us through our, digital marketing services in india.
+              <p className='text-[12px] pt-2 leading-[1.75] font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>get your business ready with us through best digital marketing services in india.
               </p>
 
             </motion.div>
@@ -287,7 +287,7 @@ const Home = () => {
 
               <img src={ui} alt="best website development in india" title='best website development in india' className='md:w-[3rem] md:h-[3rem] w-[5rem]' />
               <p className='font-bold pt-3 text-white  text-[20px]' style={{ fontFamily: 'Nunito, sans-serif' }}>website design.</p>
-              <p className='text-[12px] pt-2 leading-[1.75]  font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>change your thoughts idea with us to make into reality for website desiging in india.
+              <p className='text-[12px] pt-2 leading-[1.75]  font-normal text-gray-100' style={{ fontFamily: 'Nunito, sans-serif' }}>change your thoughts idea with us to make dream into reality with website desiging services in india.
               </p>
 
             </motion.div>
@@ -301,7 +301,7 @@ const Home = () => {
               fontFamily: "Nanum Myeongjo, serif"
             }}>our services</p>
             <h3 className='md:text-[32px] text-[28px] text-white leading-[1.4] md:leading-[1.4]  font-bold ' >are you excited to grow your business    <span className='text-green-500'>through our services ?.</span></h3>
-            <p style={{ fontFamily: 'Nunito, sans-serif' }} className='leading-[1.75]   text-gray-100 text-[16px] md:text-[16px] font-normal'>focused to track small and large business through our services in order of website development , mobile application development, digital marketing , and email design.</p>
+            <p style={{ fontFamily: 'Nunito, sans-serif' }} className='leading-[1.75]   text-gray-100 text-[16px] md:text-[16px] font-normal'>focused to small and large business  to their success our by website development , mobile application development, digital marketing , and email design.</p>
             <button className='w-[10rem] h-[3rem] text-[14px] text-white rounded-[5rem]   md:text-[16px] font-normal border-[1px] capitalize border-gray-600' >explore more</button>
           </motion.div>
 
@@ -341,14 +341,14 @@ const Home = () => {
             <motion.div className='lg:w-[40%] md:w-[60%] h-auto  w-full ' initial={{ opacity: 3, y: 250 }}
               whileInView={{ opacity: 10, y: 0 }} // Trigger when in view
               transition={{ duration: 0.5 }}>
-              <h4 className='md:text-[32px] text-[28px] font-bold leading-[1.4] md:leading-[1.4]' >best digital marketing service in india, to be <span className='text-green-500'>discovered us ?.</span> </h4>
+              <h4 className='md:text-[32px] text-[28px] font-bold leading-[1.4] md:leading-[1.4]' >discover the best digital marketing services in india  <span className='text-green-500'>2025</span> </h4>
             </motion.div>
 
             <motion.div className='lg:w-[60%] md:w-[40%] h-auto w-full pt-[2rem] md:py-[0rem]' initial={{ opacity: 3, y: -250 }}
               whileInView={{ opacity: 10, y: 0 }} // Trigger when in view
               transition={{ duration: 0.5 }}>
               <p className='md:text-[16px] font-normal leading-[1.75] text-neutral-800' >
-                best team with expected work, who solves your changelleges, and turn your idea into reality in india`s best software company.
+                best team with expected work, who solves your changelleges, and turn your idea into reality with best software company in india.
               </p>
             </motion.div>
 
@@ -372,7 +372,7 @@ const Home = () => {
             transition={{ duration: 0.5 }}>
 
 
-            <p className='text-[16px] font-normal leading-[1.75] ' style={{ fontFamily: 'Nunito, sans-serif' }}>you can explore more with us (website development , mobile application development, digital marketing, and website desiging) to expand your thinking boundaries , we are the company who focus on quality of task for our customers, and deliver the expected work, and solved your changelleges thourgh services.</p>
+            <p className='text-[16px] font-normal leading-[1.75] ' style={{ fontFamily: 'Nunito, sans-serif' }}>you can explore more with us (website development , mobile application development, digital marketing, and website desiging) to expand your thinking boundaries , we are the company who focus on quality of task for our customers, and deliver the expected work, and solved your changelleges thourgh our services.</p>
 
             <button className=' border-gray-400 border-[1px] w-[10rem] h-[3rem] rounded-[2rem] text-[16px] '>know more</button>
           </motion.div>
@@ -440,7 +440,7 @@ const Home = () => {
 
             <p>why choose us</p>
 
-            <h5 className='text-[28px] md:text-[32px] font-bold leading-[1.4] md:leading-[1.4] capitalize' ><span className='text-green-500'>33+ happy client </span>said to us , you are satisfied. </h5>
+            <h5 className='text-[28px] md:text-[32px] font-bold leading-[1.4] md:leading-[1.4] capitalize' ><span className='text-green-500'>33+ happy client </span>said to us , you are satisfied in software development services. </h5>
             <p className='md:text-[16px] text-[16px] leading-[1.75]'>why customers believe on ntcodex systems , we foucus their needed and delives expected work, and our team makes believe to do unbelivebale to beliveabale job. </p>
 
           </motion.div>
