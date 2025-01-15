@@ -34,10 +34,10 @@ const Project = () => {
 
     <Helmet>
     
-    <title>best website development company in india  | best digital marketing company in india | best app development company in india | website design</title>
-    <meta name="description" content="wxplore our worked here ,we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
+    <title>best website development company in patna bihar | best digital marketing company in patna bihar| best app development company in patna bihar| website design</title>
+    <meta name="description" content="explore our worked here ,we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
     
-    <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
+    <meta name="keywords" content="best software company in patna bihar, app development, best software development services in india, digital marketing services , digital marketing services in patna bihar" />
     <meta name="author" content="nazim ahmad founder of ntcodex systems " />
     <link rel="canonical" href="https://ntcodexsystems.tech/Project" />
     <meta name="robots" content="index, follow" />
@@ -52,7 +52,7 @@ const Project = () => {
           "name": "ntcodex systems",
           "url": "https://ntcodexsystems.tech/Project",
           "logo": "https://ntcodexsystems.tech/assets/logo.jpg",
-          "description": "",
+          "description": "explore our worked here ,we are the team to make your dream into relaity through our services such as website development , app development , digital marketing.",
           "address": {
          "@type": "PostalAddress",
     "streetAddress": " jehanabad bihar 804408",

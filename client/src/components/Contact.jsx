@@ -2,6 +2,7 @@ import React from 'react'
 import { IoIosCall } from "react-icons/io";
 import { MdOutlineEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
+import { Helmet } from 'react-helmet';
 
 
 const Contact = () => {
@@ -17,7 +18,7 @@ const Contact = () => {
     
     <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
     <meta name="author" content="nazim ahmad founder of ntcodex systems " />
-    <link rel="canonical" href="https://ntcodexsystems.tech/contact" />
+    <link rel="canonical" href="https://ntcodexsystems.tech/Contact" />
     <meta name="robots" content="index, follow" />
     <meta name="googlebot" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -28,7 +29,7 @@ const Contact = () => {
           "@context": "https://schema.org",
           "@type": " software company ",
           "name": "ntcodex systems",
-          "url": "https://ntcodexsystems.tech/contact",
+          "url": "https://ntcodexsystems.tech/Contact",
           "logo": "https://ntcodexsystems.tech/assets/logo.jpg",
           "description": "",
           "address": {

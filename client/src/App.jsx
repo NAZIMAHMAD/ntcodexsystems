@@ -19,6 +19,7 @@ function App() {
 
       {/* Add a main container for your content */}
       <main>
+        
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/About" element={<About />} />
@@ -33,6 +34,7 @@ function App() {
       </main>
 
       <Footer />
+
     </>
   );
 }

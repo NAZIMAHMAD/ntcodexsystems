@@ -12,7 +12,7 @@ const Blog = () => {
   const testDate = [
     {
       name: "change your mind",
-      dis: "change your ideas with us to change the business loop and gain the groth at ntcodex systems, and best website development services in india",
+      dis: "change your ideas with us to change the business loop and gain the groth at ntcodex systems, and best website development services in patna bihar",
       img: woman
     },
 
@@ -51,12 +51,12 @@ const Blog = () => {
 
     <Helmet>
     
-    <title>best website development | best digital marketing | best app development in india | website design</title>
-    <meta name="description" content="we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. " />
+    <title>best website development | best digital marketing | best app development in patna bihar | website design</title>
+    <meta name="description" content="we are the team to make your dream into relaity through our services such as website development , app development , digital marketing in jehanabad " />
     
-    <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
+    <meta name="keywords" content="best software company in patna bihar , app development, best software development services in patna bihar, digital marketing services , digital marketing services in patna bihar " />
     <meta name="author" content="nazim ahmad founder of ntcodex systems " />
-    <link rel="canonical" href="https://ntcodexsystems.tech/blog" />
+    <link rel="canonical" href="https://ntcodexsystems.tech/Blog" />
     <meta name="robots" content="index, follow" />
     <meta name="googlebot" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -67,16 +67,16 @@ const Blog = () => {
           "@context": "https://schema.org",
           "@type": " software company ",
           "name": "ntcodex systems",
-          "url": "https://ntcodexsystems.tech/blog",
+          "url": "https://ntcodexsystems.tech/Blog",
           "logo": "https://ntcodexsystems.tech/assets/logo.jpg",
-          "description": "",
+          "description": "we are the team to make your dream into relaity through our services such as website development , app development , digital marketing. ",
           "address": {
          "@type": "PostalAddress",
     "streetAddress": " jehanabad bihar 804408",
     "addressLocality": "jehanabad",
     "addressRegion": "Bihar",
     "postalCode": "804408",
-    "addressCountry": "India"
+    "addressCountry": "patna bihar"
           },
           "contactPoint": {
              "@type": "ContactPoint",

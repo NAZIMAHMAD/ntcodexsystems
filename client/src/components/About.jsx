@@ -9,8 +9,8 @@ const About = () => {
 
 <Helmet>
 
-<title>best software development company in india | software development</title>
-<meta name="description" content="best software company can make your dream into reality , we help who was struggling in their business , we are best software development company in india" />
+<title>best software development company in patna | software development</title>
+<meta name="description" content="best software company can make your dream into reality , we help who was struggling in their business , we are best software development company in patna" />
 
 <meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
 <meta name="author" content="nazim ahmad founder of ntcodex systems " />
@@ -27,7 +27,7 @@ const About = () => {
       "name": "ntcodex systems",
       "url": "https://ntcodexsystems.tech/About",
       "logo": "https://ntcodexsystems.tech/assets/logo.jpg",
-      "description": "",
+      "description": "best software company can make your dream into reality , we help who was struggling in their business , we are best software development company in patna",
       "address": {
      "@type": "PostalAddress",
 "streetAddress": " jehanabad bihar 804408",
@@ -65,10 +65,10 @@ const About = () => {
 
 <h1 className='md:text-[32px] text-[28px] font-bold leading-[1.4] block w-auto border-b-[4px] border-green-500 py-[1rem] ' style={{
               fontFamily: "Nanum Myeongjo, serif"
-            }}>our <span className='text-green-500'>know more about best software development company in india.</span> </h1>
+            }}>our <span className='text-green-500'>know more about best software development company in patna bihar.</span> </h1>
 
 
-<p className='text-[16px] font-normal leading-[1.75]' style={{ fontFamily: 'Nunito, sans-serif' }}>At NTCODEX, we believe in harnessing the power of technology to create impactful digital experiences. Our vision is to empower businesses to scale, compete, and thrive in an ever-evolving digital landscape. We strive to bring you future-ready solutions that are not only robust and functional but also strategically designed to meet your unique business needs.
+<p className='text-[16px] font-normal leading-[1.75]' style={{ fontFamily: 'Nunito, sans-serif' }}>At NTcodex systems, we believe in harnessing the power of technology to create impactful digital experiences. Our vision is to empower businesses to scale, compete, and thrive in an ever-evolving digital landscape. We strive to bring you future-ready solutions that are not only robust and functional but also strategically designed to meet your unique business needs.
 
 </p>
 

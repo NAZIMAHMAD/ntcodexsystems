@@ -4,14 +4,14 @@ const { SitemapStream } = sitemap; // Destructure SitemapStream from the default
 
 // Define your routes
 const pages = [
-  { url: '/', changefreq: 'daily', priority: 1.0 },
-  { url: '/About', changefreq: 'daily', priority: 0.7 },
-  { url: '/Services', changefreq: 'daily', priority: 0.3 },
-  { url: '/Gallery', changefreq: 'daily', priority: 0.5 },
-  { url: '/Project', changefreq: 'daily', priority: 0.2 },
-  { url: '/Blog', changefreq: 'daily', priority: 0.4 },
-  { url: '/Testimonial', changefreq: 'daily', priority: 0.6 },
-  { url: '/Contact', changefreq: 'daily', priority: 0.8 },
+  { url: '/', changefreq: 'hourly', priority: 1.0 },
+  { url: '/About', changefreq: 'hourly', priority: 0.7 },
+  { url: '/Services', changefreq: 'hourly', priority: 0.3 },
+  { url: '/Gallery', changefreq: 'hourly', priority: 0.5 },
+  { url: '/Project', changefreq: 'hourly', priority: 0.2 },
+  { url: '/Blog', changefreq: 'hourly', priority: 0.4 },
+  { url: '/Testimonial', changefreq: 'hourly', priority: 0.6 },
+  { url: '/Contact', changefreq: 'hourly', priority: 0.8 },
 
 
 ];

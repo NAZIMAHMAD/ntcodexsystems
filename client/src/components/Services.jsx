@@ -12,12 +12,12 @@ const Services = () => {
 
 <Helmet>
 
-<title>best website development services in india | best website design services in india </title>
-<meta name="description" content="if you are looking for your business success ?. then join with best website development services in india , who provide best website design , and best digital marketing services and best mobile app development services in india. " />
+<title>best website development services in patna bihar| best website design services in patna bihar</title>
+<meta name="description" content="if you are looking for your business success ?. then join with best website development services in patna bihar, who provide best website design , and best digital marketing services and best mobile app development services in patna india. " />
 
-<meta name="keywords" content="best software company in india , app development, best software development services in india, digital marketing services , digital marketing services in india " />
+<meta name="keywords" content="best software company in patna bihar, app development, best software development services in india, digital marketing services , digital marketing services in patna bihar" />
 <meta name="author" content="nazim ahmad founder of ntcodex systems " />
-<link rel="canonical" href="https://ntcodexsystems.tech/services" />
+<link rel="canonical" href="https://ntcodexsystems.tech/Services" />
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -28,9 +28,9 @@ const Services = () => {
       "@context": "https://schema.org",
       "@type": " software company ",
       "name": "ntcodex systems",
-      "url": "https://ntcodexsystems.tech/services",
+      "url": "https://ntcodexsystems.tech/Services",
       "logo": "https://ntcodexsystems.tech/assets/logo.jpg",
-      "description": "",
+      "description": "if you are looking for your business success ?. then join with best website development services in patna bihar, who provide best website design , and best digital marketing services and best mobile app development services in patna india.",
       "address": {
      "@type": "PostalAddress",
 "streetAddress": " jehanabad bihar 804408",
@@ -63,7 +63,7 @@ const Services = () => {
 
   <div className='md:w-[50%] w-[80%] h-auto flex justify-center items-center gap-[1rem]  flex-col text-center capitalize'>
 <p className='md:text-[36px] text-[28px] font-bold leading-[1.4]'>what we are offering for you</p>
-<h1 className='font-normal text-[16px] text-neutral-800 leading-[1.7]'>ntcodex systems can be best website development services in india , who can help to make your business growth, we are offering website development, mobile application , digital marketing and website design in india </h1>
+<h1 className='font-normal text-[16px] text-neutral-800 leading-[1.7]'>ntcodex systems can be best website development services in patna bihar and in jehanabad bihar, who can help to make your business growth, we are offering website development, mobile application , digital marketing and website design in patna bihar</h1>
   </div>
 
 </div>
@@ -80,7 +80,7 @@ const Services = () => {
 
 <div className='md:w-[50%] w-full h-auto  flex justify-start items-start gap-[1rem] flex-col '>
   <h2 className='md:text-[32px] text-[28px] leading-[1.44] font-normal '>website development</h2>
-  <p className='text-[16px] leading-[1.74] font-normal text-neutral-800'>best website development company can lead your customers, and we find secure development for you in india and we use the trending technology to make website ( html , css , javascript ,bootstrap , react.js, node.js , mongodb, express.) , if you are looking to growth for your business and make professional outcome.</p>
+  <p className='text-[16px] leading-[1.74] font-normal text-neutral-800'>best website development company can lead your customers, and we find secure development for you in patna biharand we use the trending technology to make website ( html , css , javascript ,bootstrap , react.js, node.js , mongodb, express.) , if you are looking to growth for your business and make professional outcome.</p>
   <button className='md:w-[10rem] w-full h-[3rem] border capitalize bg-neutral-900 text-white'>book for services </button>
   </div>
 

@@ -58,7 +58,7 @@ const Navbar = () => {
 
     {
       name: 'contact',
-      link: '/contact',
+      link: '/Contact',
     }
 
 

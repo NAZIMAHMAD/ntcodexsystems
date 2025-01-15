@@ -75,14 +75,41 @@ const Footer = () => {
         <li className='text-[20px]' style={{
                 fontFamily: "Nanum Myeongjo, serif"
               }}>company</li>
-        <li className='pt-[1rem]'>home</li>
-        <li className='pt-[0.5rem]' >about</li>
+        
+        <li className='pt-[1rem]'>
+         <NavLink to="/">home
+          </NavLink> 
+          </li>
 
-        <li className='pt-[0.5rem]' >services</li>
-        <li className='pt-[0.5rem]'>gallery</li>
+        <li className='pt-[0.5rem]' >
+        <NavLink to="/About">about
+        </NavLink> 
+        </li>
 
-        <li className='pt-[0.5rem]'>blog</li>
-        <li className='pt-[0.5rem]'>contact</li>
+        <li className='pt-[0.5rem]' >
+          <NavLink to="/Services">services
+          </NavLink>
+          </li>
+        <li className='pt-[0.5rem]'>
+           <NavLink to="/Gallery">gallery
+          </NavLink>
+          </li>
+
+        <li className='pt-[0.5rem]'>
+           <NavLink to="/Blog">blog
+          </NavLink>
+          </li>
+
+          <li className='pt-[0.5rem]'>
+           <NavLink to="/Testimonial"> Testimonials
+          </NavLink>
+          </li>
+
+        <li className='pt-[0.5rem]'>
+            <NavLink to="/Contact">contact
+          </NavLink>
+          </li>
+
       </ul>
 
       </div>
